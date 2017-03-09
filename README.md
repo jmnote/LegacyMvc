@@ -1,5 +1,5 @@
 # LegacyMvc
-* Spring MVC Project in STS 3.7.2
+* Spring MVC Project in STS 3.8.3
 
 # How to make this
 * File --- New --- Spring Legacy Project
@@ -11,14 +11,12 @@
 
 Spring Tool Suite 
 
-Version: 3.7.2.RELEASE
-Build Id: 201511261048
-Platform: Eclipse Mars.1 (4.5.1)
+Version: 3.8.3.RELEASE
+Build Id: 201612191351
+Platform: Eclipse Neon.2 (4.6.2)
 
-Copyright (c) 2007 - 2015 Pivotal Software, Inc.
+Copyright (c) 2007 - 2016 Pivotal Software, Inc.
 All rights reserved. Visit http://spring.io/tools/sts
 
 This product includes software developed by the
 Apache Software Foundation http://www.apache.org
-
-Lombok v1.16.6 "Candid Duck" is installed. https://projectlombok.org/
