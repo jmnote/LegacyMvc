@@ -3,7 +3,7 @@
 
 # How to make this
 * File --- New --- Spring Legacy Project
-* Project name: LegacyMvc1
+* Project name: LegacyMvc
 * Templates: Spring MVC Project
 * top-level package: com.example.mvc
 
